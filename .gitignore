@@ -6,6 +6,7 @@ password.txt
 ssh-key-2021-08-23.key
 ssh-key-2021-08-23.key.pub
 mysql.json
+movies/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
